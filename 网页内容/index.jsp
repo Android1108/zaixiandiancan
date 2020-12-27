@@ -9,7 +9,7 @@
 	<head>
 		<base href="<%=basePath%>">
 
-		<title></title>
+		<title>hhh</title>
 	</head>
 
 	<body>
