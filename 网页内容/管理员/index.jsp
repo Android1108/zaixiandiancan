@@ -54,7 +54,7 @@
 					<div class="formRow">
 						<label for="pass">密码:</label>
 						<div class="loginInput">
-							<input type="password" name="password" id="password" placeholder="请输入密码" />
+							<input type="password" name="password" id="password" placeholder="请输入你的密码" />
 						</div>
 						<div class="clear"></div>
 					</div>
