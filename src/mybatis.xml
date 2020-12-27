@@ -11,6 +11,7 @@
 		<typeAlias alias="cinema" type="com.entity.Cinema" />
 		<typeAlias alias="film" type="com.entity.Film" />
 		<typeAlias alias="cart" type="com.entity.Cart" />
+		
 		<typeAlias alias="orders" type="com.entity.Orders" />
 		<typeAlias alias="details" type="com.entity.Details" />
 		<typeAlias alias="topic" type="com.entity.Topic" />
